@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Lista0101 {
+public class Lista01_01 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         double velemmetro = scan.nextDouble();

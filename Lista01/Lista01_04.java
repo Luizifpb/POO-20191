@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Lista0104 {
+public class Lista01_04 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         double nota = scan.nextDouble();

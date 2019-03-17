@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Lista0111 {
+public class Lista01_11 {
     public static void main(String[] args) {
         System.out.println("Vai levar quantos produtos: ");
         Scanner scan = new Scanner(System.in);

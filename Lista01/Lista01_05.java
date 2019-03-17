@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Lista0105 {
+public class Lista01_05 {
     public static void dizmes(int mes){
         switch(mes){
             case 1:

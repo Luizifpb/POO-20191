@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Lista0106 {
+public class Lista01_06 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String nome = scan.next();
